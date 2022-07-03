@@ -1,2 +1,2 @@
 # Popular-Programming-Languages
-A program that gives out a graph of most popular programming languages over time
+A program that takes a csv using data from stackoverflow. The data gives out the amount of posts about a programming language over time. I used that data and manipulated it using the **pandas library** and used the **matplotlib library** to show the data graphed.
